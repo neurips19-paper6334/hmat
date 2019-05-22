@@ -1,0 +1,7 @@
+# Extensions
+*.pyc
+*.swp
+
+# Folders
+logs/
+venv/
